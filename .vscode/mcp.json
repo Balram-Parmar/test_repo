@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "yt-dlp Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/yt-dlp/yt-dlp"
+    }
+  }
+}
